@@ -7,7 +7,6 @@ A Claude Code plugin marketplace from Trail of Bits providing skills to enhance 
 ## Installation
 
 ### Claude Code Marketplace
-
 ```
 /plugin marketplace add trailofbits/skills
 ```
